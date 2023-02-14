@@ -10,10 +10,15 @@
 -Function:
 
 +Admin: Product management (CRUD), Catetogory management(CRUD), View all orders
+
+
+
 +Customer: View all products, View products by category, View own orders, Edit information, Place order
 
 
 -UI
+
+
 For Admin
 ![image](https://user-images.githubusercontent.com/125273807/218693317-dadf0c85-fa6a-4832-9705-dbe0a0cefedc.png)
 
